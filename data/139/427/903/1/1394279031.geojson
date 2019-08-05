@@ -1,0 +1,80 @@
+{
+  "type": "Feature",
+  "id": 1394279031,
+  "properties": {
+    "edtf:cessation": "2019-08-01T22:55:49Z",
+    "edtf:inception": "2019-08-01T19:31:00Z",
+    "flysfo:airline": "WN",
+    "flysfo:date": "2019-08-01",
+    "flysfo:event": "departure",
+    "flysfo:flight_number": "855",
+    "flysfo:gate": "B14",
+    "flysfo:journey": "SFO-STL",
+    "flysfo:terminal": "1",
+    "flysfo:timestamp": 1564686600,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 38.180931,
+    "geom:longitude": -106.3692875,
+    "icao:aircraft": "B738",
+    "icao:airline": "SWA",
+    "icao:base_airline": "",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102525961,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20190801-D-SWA-855",
+    "sfomuseum:flight_number": ["WN855", "SWA855"],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": ["swim-route", "swim-path"],
+    "swim:tail_number": "N8688J",
+    "wof:belongsto": [
+      102087579, 
+      85922583, 
+      554784711, 
+      85688637, 
+      102085387, 
+      102527513, 
+      102191575, 
+      85633793
+    ],
+    "wof:concordances": {
+      "swim:flight_ref": "109141790",
+      "swim:gufi": ""
+    },
+    "wof:country": "US",
+    "wof:created": 1565030080,
+    "wof:geomhash": "5aed0915f9f8845326df52b0d348a4b7",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      }, 
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1394279031,
+    "wof:involves": [102525961, 102527513, 1159285591, 1159289871],
+    "wof:lastmodified": 1565031095,
+    "wof:name": "WN855 (SFO-STL)",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2019-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

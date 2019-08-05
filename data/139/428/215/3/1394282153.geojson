@@ -1,0 +1,72 @@
+{
+  "type": "Feature",
+  "id": 1394282153,
+  "properties": {
+    "edtf:cessation": "2019-08-02~",
+    "edtf:inception": "2019-08-02~",
+    "flysfo:airline": "AS",
+    "flysfo:date": "2019-08-02",
+    "flysfo:event": "arrival",
+    "flysfo:flight_number": "2806",
+    "flysfo:gate": "59B",
+    "flysfo:journey": "SNA-SFO",
+    "flysfo:terminal": "2",
+    "flysfo:timestamp": 1564760100,
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 35.647857,
+    "geom:longitude": -120.1186115,
+    "icao:airline": "ASA",
+    "icao:base_airline": "",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102534161,
+    "sfomuseum:flight_id": "20190802-A-ASA-2806",
+    "sfomuseum:flight_number": ["AS2806", "ASA2806"],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      85633793, 
+      102087579, 
+      85922583, 
+      554784711, 
+      85688637, 
+      102085387, 
+      102527513, 
+      102191575
+    ],
+    "wof:country": "US",
+    "wof:created": 1565030112,
+    "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      }, 
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1394282153,
+    "wof:involves": [102527513, 102534161, 1159283813],
+    "wof:lastmodified": 1565030112,
+    "wof:name": "AS2806 (SNA-SFO)",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2019-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}
+}
