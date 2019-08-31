@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "id": 1477702163,
+  "properties": {
+    "geom:area": 0,
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
+    "geom:latitude": 37.67,
+    "geom:longitude": -122.30000000000001,
+    "src:geom": "swim",
+    "swim:geom": "route",
+    "wof:alt_label": "swim-route",
+    "wof:geomhash": "d0680f2cc07b0dc22254f476fb29ef9c",
+    "wof:id": 1477702163
+  },
+  "geometry": {"coordinates":[[-122.38,37.62],[-122.3,37.67],[-122.3,37.67],[-122.22,37.72]],"type":"LineString"}
+}
