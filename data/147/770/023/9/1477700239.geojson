@@ -90,10 +90,13 @@
       1159157839,
       1377564285
     ],
-    "wof:lastmodified": 1653355386,
+    "wof:lastmodified": 1717006392,
     "wof:name": "AS340 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-08",
     "wof:superseded_by": [],
     "wof:supersedes": [],

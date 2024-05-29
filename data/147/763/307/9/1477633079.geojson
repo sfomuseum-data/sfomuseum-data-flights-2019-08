@@ -87,10 +87,13 @@
       1159157649,
       1159292085
     ],
-    "wof:lastmodified": 1653355240,
+    "wof:lastmodified": 1717006389,
     "wof:name": "AS1926 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-08",
     "wof:superseded_by": [],
     "wof:supersedes": [],
